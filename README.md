@@ -62,7 +62,17 @@ Il nome host DARK-PC della macchina è stato individuato con il comando
 ```
 nmap -sV -A vittima
 ```
+
+Dove ```-sV``` Identifica le versioni dei servizi in esecuzione e ```-A``` abilita la scansione avanzata, inclusa l’identificazione del sistema operativo, il rilevamento del nome host e i traceroute.
+
 ![EA021DC2-74A4-485A-BBAD-F859CB3A6AC9_1_201_a](https://github.com/user-attachments/assets/906fdf6a-b817-4ffa-9ee1-3048e82b8eec)
 
+**Server**
+
+
+
+
+
+**3. ACCESSO AL SERVER** 
 
 
