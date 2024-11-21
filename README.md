@@ -52,6 +52,10 @@ Nmap ha rilevato un servizio HTTP in esecuzione sulla porta 8000.
 
 **Host**
 
-Il nome host della macchina è ICE.
+Il nome host DARK-PC della macchina è stato individuato con il comando 
+```
+nmap -sV -A vittima
+```
+
 
 
