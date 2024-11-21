@@ -33,7 +33,7 @@ nmap -v -T5 -Pn vittima
 dove
 ``` -v ``` indica maggiore verbosità, ```-T5``` indica un ivello di aggressività molto alto per la scansione, ottimizzando la velocità a scapito della precisione e del rischio di rilevamento da parte di sistemi di sicurezza, e ```-Pn``` disabilita il ping.
 
-ottenendo i seguenti risultati:
+I risultati sono i seguenti:
 
 
 
