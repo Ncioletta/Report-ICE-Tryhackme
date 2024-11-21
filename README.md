@@ -56,6 +56,10 @@ dove
 
 ![image](https://github.com/user-attachments/assets/ac2707da-1689-4430-94bd-4ce90d9f9ee7)
 
+**Icecast Streaming Media Server**  
+
+Icecast è un server open-source per lo streaming audio e video, ideale per creare radio online, trasmettere eventi live o distribuire contenuti multimediali. Supporta formati come MP3, Ogg Vorbis/Opus, AAC e WebM, ed è compatibile con Linux, macOS e Windows. Icecast offre scalabilità, relay streaming, controllo degli accessi e strumenti per monitorare le connessioni e le statistiche degli ascoltatori. È ampiamente usato per progetti di streaming grazie alla sua flessibilità e personalizzabilità.
+
 **Host**
 
 Il nome host DARK-PC della macchina è stato individuato con il comando 
