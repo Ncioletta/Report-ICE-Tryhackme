@@ -85,7 +85,7 @@ nmap --script vuln vittima
 ```
 con il seguente risultato: CVE-2004-1561.
 
-Una volta ottenuto il CVE, visitare _CVE Details_ e cercare il CVE specifico per ottenere l’Impact Score.
+Una volta ottenuto il CVE, visitare _CVE Details_ e cercare il CVE specifico per ottenere l’Impact Score, pari a 6.4.
 
 <img width="570" alt="Screenshot 2024-11-21 alle 16 43 43" src="https://github.com/user-attachments/assets/ed47bff8-62e4-49cc-87b9-66c5cde726d7">
 
