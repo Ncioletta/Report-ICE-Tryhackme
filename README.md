@@ -31,7 +31,7 @@ Una volta effettuato il collegamento alla VPN, dato un IP target denominato vitt
 nmap -v -T5 -Pn vittima
 ```
 dove
-``` -v ``` indica maggiore verbosità, ```-T5``` indica un ivello di aggressività molto alto per la scansione, ottimizzando la velocità a scapito della precisione e del rischio di rilevamento da parte di sistemi di sicurezza, e ```-Pn``` disabilita il ping.
+``` -v ``` indica maggiore verbosità, ```-T5``` indica un livello di aggressività molto alto per la scansione, ottimizzando la velocità a scapito della precisione e del rischio di rilevamento da parte di sistemi di sicurezza, e ```-Pn``` disabilita il ping.
 
 I risultati sono i seguenti:
 ![6577B4B3-A5DA-4F41-951E-5801E60E53D9_1_201_a](https://github.com/user-attachments/assets/8e952963-ea9f-4ef9-9c9d-742fa5548e44)
@@ -45,7 +45,13 @@ La porta dedicata a Microsoft Remote Desktop (MSRDP)è la numero 3389.
 
 **Servizio sulla porta 8000**
 
-Nmap ha rilevato un servizio HTTP in esecuzione sulla porta 8000.
+Nmap ha rilevato un servizio HTTP in esecuzione sulla porta 8000. 
+Per identificare con precisione il servizio attivo sulla porta, si effettua la seguente scansione con nmap:
+```
+nmap -sV -Pn -T5 vittima
+```
+dove
+```-sV```(Service Version Detection), identifica i servizi in esecuzione sulle porte aperte e tenta di determinare la versione specifica di ciascun servizio.```-T5``` indica un livello di aggressività molto alto per la scansione, ottimizzando la velocità a scapito della precisione e del rischio di rilevamento da parte di sistemi di sicurezza, e ```-Pn``` disabilita il ping.
 
 
 ![image](https://github.com/user-attachments/assets/ac2707da-1689-4430-94bd-4ce90d9f9ee7)
