@@ -90,7 +90,31 @@ Una volta ottenuto il CVE, visitare _CVE Details_ e cercare il CVE specifico per
 <img width="570" alt="Screenshot 2024-11-21 alle 16 43 43" src="https://github.com/user-attachments/assets/ed47bff8-62e4-49cc-87b9-66c5cde726d7">
 
 
-**MSFCONFOLE**
+**METASPLOIT E MSFCONFOLE**
+
+**Metasploit Framework** è una piattaforma open-source utilizzata per test di penetrazione, ricerca di vulnerabilità e sviluppo di exploit. È uno strumento potente che permette di simulare attacchi informatici per identificare debolezze nei sistemi e migliorare la sicurezza.  
+
+#### Termini chiave:  
+
+- **Exploit:**  
+  Un exploit è un codice o uno script progettato per sfruttare una vulnerabilità in un software, sistema operativo o servizio. In Metasploit, gli exploit vengono utilizzati per ottenere accesso non autorizzato o eseguire azioni malevole sul sistema target.
+
+- **Payload:**  
+  Il payload è il codice che viene eseguito una volta sfruttata la vulnerabilità. Può includere funzioni come:
+  - Apertura di una shell remota
+  - Download ed esecuzione di un file
+  - Accesso ai dati sensibili
+  I payload sono configurabili in Metasploit per adattarsi agli obiettivi specifici di un test di penetrazione.
+
+- **Vulnerabilità:**  
+  Una vulnerabilità è una debolezza in un sistema o applicazione che può essere sfruttata da un attaccante. Metasploit include un database di vulnerabilità e relativi exploit, rendendo più semplice identificare e testare falle di sicurezza note.
+
+#### Workflow tipico in Metasploit:  
+1. **Scansione e identificazione delle vulnerabilità** (spesso con strumenti come Nmap o Nessus).  
+2. **Selezione di un exploit** appropriato per il target.  
+3. **Configurazione del payload** da utilizzare con l'exploit.  
+4. **Esecuzione dell'attacco** per testare la vulnerabilità e ottenere l'accesso.  
+
 
 Si avvia il framework Metasploit con il seguente comando:
 ```
