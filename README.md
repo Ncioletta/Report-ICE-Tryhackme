@@ -38,4 +38,5 @@ I risultati sono i seguenti:
 
 
 
+![image](https://github.com/user-attachments/assets/ac2707da-1689-4430-94bd-4ce90d9f9ee7)
 
