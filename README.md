@@ -28,7 +28,13 @@ Per confermare il corretto instradamento del traffico attraverso la VPN, è stat
 Una volta effettuato il collegamento alla VPN, dato un IP target denominato vittima, si effettua uno scan nmap con il comando:
 
 ```
-nmap  -vv -p- -oN scan_porte.txt vittima
+nmap -v -T5 -Pn vittima
 ```
+dove
+``` -v ``` indica maggiore verbosità, ```-T5``` indica un ivello di aggressività molto alto per la scansione, ottimizzando la velocità a scapito della precisione e del rischio di rilevamento da parte di sistemi di sicurezza, e ```-Pn``` disabilita il ping.
 
-![image](https://github.com/user-attachments/assets/3d608270-ffc5-4343-81a6-a9d5d45a30f2)
+ottenendo i seguenti risultati:
+
+
+
+
