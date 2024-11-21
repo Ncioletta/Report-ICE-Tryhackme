@@ -34,6 +34,7 @@ dove
 ``` -v ``` indica maggiore verbosità, ```-T5``` indica un ivello di aggressività molto alto per la scansione, ottimizzando la velocità a scapito della precisione e del rischio di rilevamento da parte di sistemi di sicurezza, e ```-Pn``` disabilita il ping.
 
 I risultati sono i seguenti:
+![6577B4B3-A5DA-4F41-951E-5801E60E53D9_1_201_a](https://github.com/user-attachments/assets/8e952963-ea9f-4ef9-9c9d-742fa5548e44)
 
 
 
