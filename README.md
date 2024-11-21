@@ -62,6 +62,7 @@ Il nome host DARK-PC della macchina è stato individuato con il comando
 ```
 nmap -sV -A vittima
 ```
+![EA021DC2-74A4-485A-BBAD-F859CB3A6AC9_1_201_a](https://github.com/user-attachments/assets/906fdf6a-b817-4ffa-9ee1-3048e82b8eec)
 
 
 
