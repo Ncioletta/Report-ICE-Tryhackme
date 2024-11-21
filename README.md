@@ -28,6 +28,7 @@ Per confermare il corretto instradamento del traffico attraverso la VPN, è stat
 Una volta effettuato il collegamento alla VPN, dato un IP target denominato vittima, si effettua uno scan nmap con il comando:
 
 ```
-
+nmap  -vv -p- -oN scan_porte.txt vittima
+```
 
 ![image](https://github.com/user-attachments/assets/3d608270-ffc5-4343-81a6-a9d5d45a30f2)
