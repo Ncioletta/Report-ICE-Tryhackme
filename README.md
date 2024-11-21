@@ -101,6 +101,13 @@ Una volta che la console è operativa, eseguire il comando:
 ``` 
 search icecast
 ```
+![df1e29e1-838e-4b24-bee1-2981f3f8b384](https://github.com/user-attachments/assets/a172f926-fc69-475f-a1ff-7a79e23a4b9a)
+
+Nel risultato della ricerca, il modulo di exploit è indicato con:
+```
+exploit/windows/http/icecast_header
+```
+
 
 
 
