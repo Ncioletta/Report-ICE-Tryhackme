@@ -16,5 +16,5 @@ Il file di configurazione OpenVPN (.ovpn) è stato scaricato dalla sezione Acces
 
 Dato un IP target denominato vittima, si effettua uno scan nmap con il comando 
 
-![image](https://github.com/user-attachments/assets/f39622d7-b96d-44c3-beab-23c363a9cf04)
 
+![image](https://github.com/user-attachments/assets/3d608270-ffc5-4343-81a6-a9d5d45a30f2)
