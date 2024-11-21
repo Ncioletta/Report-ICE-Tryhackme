@@ -90,5 +90,23 @@ Una volta ottenuto il CVE, visitare _CVE Details_ e cercare il CVE specifico per
 <img width="570" alt="Screenshot 2024-11-21 alle 16 43 43" src="https://github.com/user-attachments/assets/ed47bff8-62e4-49cc-87b9-66c5cde726d7">
 
 
+**MSFCONFOLE**
+
+Si avvia il framework Metasploit con il seguente comando:
+```
+msfconsole
+```
+
+Una volta che la console è operativa, eseguire il comando:
+``` 
+search icecast
+```
+
+
+
+
+
+
+
 
 
