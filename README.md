@@ -36,6 +36,21 @@ dove
 I risultati sono i seguenti:
 ![6577B4B3-A5DA-4F41-951E-5801E60E53D9_1_201_a](https://github.com/user-attachments/assets/8e952963-ea9f-4ef9-9c9d-742fa5548e44)
 
+**Servizio Microsoft Remote Desktop (MSRDP)**
 
+Dopo aver completato la scansione, si osservano diverse porte aperte sulla macchina. Il firewall risulta disattivato, con il servizio completamente spento, lasciando così la macchina esposta. 
+
+La porta dedicata a Microsoft Remote Desktop (MSRDP)è la numero 3389.
+
+
+**Servizio sulla porta 8000**
+
+Nmap ha rilevato un servizio HTTP in esecuzione sulla porta 8000.
+
+
+
+**Host**
+
+Il nome host della macchina è ICE.
 
 
