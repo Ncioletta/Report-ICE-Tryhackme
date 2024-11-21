@@ -48,6 +48,7 @@ La porta dedicata a Microsoft Remote Desktop (MSRDP)è la numero 3389.
 Nmap ha rilevato un servizio HTTP in esecuzione sulla porta 8000.
 
 
+![image](https://github.com/user-attachments/assets/ac2707da-1689-4430-94bd-4ce90d9f9ee7)
 
 **Host**
 
